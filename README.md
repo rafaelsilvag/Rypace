@@ -39,7 +39,10 @@ After writing your application, just type::
    $ export PYTHONPATH=.
    $ ryu-manager app/rypace_switch_v01.py
 ```
+
 Developers:
-	- Rafael S. Guimarães <rafaelg@ifes.edu.br>
-	- Willen Borges Coelho <willen@ifes.edu.br>
-	- Everson Scherrer Borges <everson@ifes.edu.br>
+-----------
+
+Rafael S. Guimarães <rafaelg@ifes.edu.br>
+Willen Borges Coelho <willen@ifes.edu.br>
+Everson Scherrer Borges <everson@ifes.edu.br>

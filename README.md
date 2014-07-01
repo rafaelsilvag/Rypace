@@ -35,14 +35,15 @@ If you want to write your Ryu application, have a look at
 After writing your application, just type::
 
 ```sh
-   $ cd /usr/local/rypace/
-   $ export PYTHONPATH=.
-   $ ryu-manager app/rypace_switch_v01.py
+$ cd /usr/local/rypace/
+$ export PYTHONPATH=.
+$ ryu-manager app/rypace_switch_v01.py
 ```
 
 Developers:
 -----------
-
+```
 Rafael S. Guimarães <rafaelg@ifes.edu.br>
 Willen Borges Coelho <willen@ifes.edu.br>
 Everson Scherrer Borges <everson@ifes.edu.br>
+```
